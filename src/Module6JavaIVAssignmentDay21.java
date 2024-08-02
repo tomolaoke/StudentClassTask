@@ -69,7 +69,6 @@ class Student extends Human {
         graduated = true;
     }
 
-    @Override
     void printResponsibilities() {
         System.out.println("Student responsibilities:");
         System.out.println("- Attend classes");
