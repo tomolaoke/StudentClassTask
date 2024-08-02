@@ -81,7 +81,7 @@ class Student extends Human {
 
 public class Module6JavaIVAssignmentDay21 {
     public static void main(String[] args) {
-        Student student = new Student("John Doe");
+        Student student = new Student("Tommy Oke");
         System.out.println("Name: " + student.name);
         System.out.println("Role: " + student.role);
         System.out.println("Level: " + student.getLevel());
